@@ -17,7 +17,7 @@ StumbleLabs is a community-driven organization focused on developing and maintai
 
 Here are some of the projects you can find within the StumbleLabs organization:
 
-- **stumble-js**: An API that provides access to Stumble Guys game data, including player statistics, leaderboards, and more. It allows developers to create innovative applications and integrations with the game.
+- [Stumble-js](https://github.com/StumbleLabs/stumble-js): An API that provides access to Stumble Guys game data, including player statistics, leaderboards, and more. It allows developers to create innovative applications and integrations with the game.
 
 - **stumble-py**: Same as stumble-js but in python.
 
