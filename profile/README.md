@@ -16,18 +16,17 @@ StumbleLabs is a community-driven organization focused on developing and maintai
 ## Projects
 
 Here are some of the projects you can find within the StumbleLabs organization:
-<a target="_blank">https://github.com/StumbleLabs/stumble-js</a>
 - [Stumble-js](https://github.com/StumbleLabs/stumble-js): An API that provides access to Stumble Guys game data, including player statistics, leaderboards, and more. It allows developers to create innovative applications and integrations with the game.
 
-- **stumble-py**: Same as stumble-js but in python.
+- [Stumble-py](https://github.com/StumbleLabs/stumble-py): Same as stumble-js but in python.
 
-- **Backend-dcbot-js**: A Discord bot specifically designed for Stumble Guys communities. It provides features such as game notifications, player rankings, custom commands, and interactive game-related commands.
+- [Backend-bot-JS-version](https://github.com/StumbleLabs/Backend-dcbot-js): A Discord bot specifically designed for Stumble Guys communities. It provides features such as game notifications, player rankings, custom commands, and interactive game-related commands.
 
-- **stumble-guys-sdk**: The backend infrastructure that powers Stumble Guys' online functionality. It handles matchmaking, server management, data synchronization, and other core features required for a smooth multiplayer experience.
+- [Stumble-guys-sdk](https://github.com/StumbleLabs/stumble-guys-sdk): The backend infrastructure that powers Stumble Guys' online functionality. It handles matchmaking, server management, data synchronization, and other core features required for a smooth multiplayer experience.
 
-- **Backend-dcbot-py**: A Discord bot made in python that serves as a menu for Stumble Guys players. It offers features like account management.
+- [Backend-bot-PY-version](https://github.com/StumbleLabs/Backend-dcbot-py): A Discord bot made in python that serves as a menu for Stumble Guys players. It offers features like account management.
 
-- **WebGL-Unity-WebSERVER**: Just a webgl version of stumble guys.
+- [WebGL-SG](https://github.com/StumbleLabs/WebGL-Unity-WebSERVER): Just a webgl version of stumble guys.
 
 All projects are made and managed by xDaswx but contribution to public projects is accepted, it should be noted that not all projects are public.
 
