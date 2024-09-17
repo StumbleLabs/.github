@@ -45,5 +45,6 @@ Public projects within the StumbleLabs organization are released under the ([SCO
 Whenever necessary, the game team is called and so I send the necessary things to the team.
 
 ---
+![image](https://github.com/user-attachments/assets/30c34d5f-1975-4e52-8bde-bc29704cf9cc)
 
 Thank you for being a part of StumbleLabs! We hope you enjoy exploring the projects and contributing to the Stumble Guys community.
