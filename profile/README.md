@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/StumbleLabs/.github/main/profile/assets/banner.png" alt="StumbleLabs: community tools for Stumble Guys" width="100%">
+  <img src="https://raw.githubusercontent.com/StumbleLabs/.github/main/profile/banner.png" alt="StumbleLabs: community tools for Stumble Guys" width="100%">
 </p>
 
 <p align="center">
